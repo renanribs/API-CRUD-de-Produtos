@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "productlist",
+  "description": "",
+  "version": "1.0.0",
+  "main": "productsModel.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanribs/Cadastro-de-Produtos.git"
+  },
+  "author": "Renan Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanribs/Cadastro-de-Produtos/issues"
+  },
+  "homepage": "https://github.com/renanribs/Cadastro-de-Produtos#readme"
+}
